@@ -10,6 +10,7 @@ public class BbokariController : MonoBehaviour
     [SerializeField]
     float jumpForce = 100;
 
+
     [SerializeField] 
     Transform groundCheck;
 
@@ -25,6 +26,7 @@ public class BbokariController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        //hej
     }
 
     // Update is called once per frame
